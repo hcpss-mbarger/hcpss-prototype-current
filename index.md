@@ -6,11 +6,11 @@ layout: default
 title: "Provide Public Input on New Positions"
 ---
 
-The Howard County Public School System is seeking public input on the hiring process for the new Industrial Hygienist and Special Education Parent Liaison positions, which were created to strengthen the school system’s commitment to equity, transparency and community responsiveness.
+The Howard County Public School System is seeking public input as we move forward with the hiring process for the new Industrial Hygienist and Special Education Parent Liaison positions, which were created to strengthen the school system’s commitment to equity, transparency and community responsiveness.
 
 Community members are invited to submit desired leadership characteristics and suggest interview questions for both positions by completing the surveys below. **Responses will be collected from July 19 through August 2, 2017.** Detailed descriptions of both positions are also provided.
 
-The survey responses will be shared with the formal interview panels and will inform the development of interview questions and response rubrics for both open positions.
+The survey responses will be shared with the formal interview panels and will inform the development of interview questions and response rubrics for both open positions. Input identifying specific candidates for the position will not be considered.
 
 <div class="contents">
 <div class="col-left">
