@@ -50,6 +50,17 @@ title: "HCPSS Leaderhip Team"
   </div>
 
   <div class="two-thirds--last">
+  <h3>Rafiu Ighile, Chief Business and Technology Officer</h3>
+    <p>Rafiu Ighile oversees <strong>all financial and technology operations and ensuring responsible stewardship of school system resources</strong>. Ighile currently serves as Deputy Director of Finance, Howard County Government. He previously served as Bureau Chief/Controller for Howard County Government, and held controller roles at the American Trucking Association, National Children’s Center Inc., and the Lt. Joseph P. Kennedy Institute.</p>
+  </div>
+</div>
+
+<div class="contents">
+  <div class="thirds--first">
+  <img class="pict img--shadow" src="http://via.placeholder.com/250x375" height="200" alt="">
+  </div>
+
+  <div class="two-thirds--last">
   <h3>Helen Nixon, Chief Human Resources and Leadership Development Officers</h3>
     <p>Helen Nixon oversees <strong>recruitment, hiring, compensation, and staff and leadership development</strong>. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam orci orci, elementum sed tempor vitae, sagittis eu nulla. Suspendisse sed finibus lacus. Sed tristique dapibus dictum. Praesent ante lacus, maximus scelerisque nulla nec, sollicitudin tincidunt ante.</p>
   </div>
@@ -61,19 +72,8 @@ title: "HCPSS Leaderhip Team"
   </div>
 
   <div class="two-thirds--last">
-  <h3>Anissa Brown Dennis, Chief Operations Officer</h3>
-    <p>Anissa Brown Dennis oversees <strong>capital planning, infrastructure development, facilities management and safety</strong>. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam orci orci, elementum sed tempor vitae, sagittis eu nulla. Suspendisse sed finibus lacus. Sed tristique dapibus dictum. Praesent ante lacus, maximus scelerisque nulla nec, sollicitudin tincidunt ante.</p>
-  </div>
-</div>
-
-<div class="contents">
-  <div class="thirds--first">
-  <img class="pict img--shadow" src="http://via.placeholder.com/250x375" height="200" alt="">
-  </div>
-
-  <div class="two-thirds--last">
-  <h3>Rafiu Ighile, Chief Business and Technology Officer</h3>
-    <p>Rafiu Ighile oversees <strong>all financial and technology operations and ensuring responsible stewardship of school system resources</strong>. Ighile currently serves as Deputy Director of Finance, Howard County Government. He previously served as Bureau Chief/Controller for Howard County Government, and held controller roles at the American Trucking Association, National Children’s Center Inc., and the Lt. Joseph P. Kennedy Institute.</p>
+  <h3>Frank Eastham, Chief School Management and Instructional Leadership Officer</h3>
+    <p>Frank Eastham oversees a <strong>vertical educational delivery model that encompasses preschool through Grade 12</strong>. Eastham is currently Executive Director of School Administration and Improvement, previously served as principal at Oakland Mills High School and the Homewood Center, and began his career as a Special Education teacher at Hammond High School.</p>
   </div>
 </div>
 
@@ -105,8 +105,8 @@ title: "HCPSS Leaderhip Team"
   </div>
 
   <div class="two-thirds--last">
-  <h3>Frank Eastham, Chief School Management and Instructional Leadership Officer</h3>
-    <p>Frank Eastham oversees a <strong>vertical educational delivery model that encompasses preschool through Grade 12</strong>. Eastham is currently Executive Director of School Administration and Improvement, previously served as principal at Oakland Mills High School and the Homewood Center, and began his career as a Special Education teacher at Hammond High School.</p>
+  <h3>Anissa Brown Dennis, Chief Operations Officer</h3>
+    <p>Anissa Brown Dennis oversees <strong>capital planning, infrastructure development, facilities management and safety</strong>. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam orci orci, elementum sed tempor vitae, sagittis eu nulla. Suspendisse sed finibus lacus. Sed tristique dapibus dictum. Praesent ante lacus, maximus scelerisque nulla nec, sollicitudin tincidunt ante.</p>
   </div>
 </div>
 
