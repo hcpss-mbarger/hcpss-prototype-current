@@ -3,7 +3,7 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
-title: "HCPSS Leaderhip Team"
+title: "HCPSS Leadership Team"
 ---
 
 <p class="post__paragraph--callout">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam orci orci, elementum sed tempor vitae, sagittis eu nulla. Suspendisse sed finibus lacus. Sed tristique dapibus dictum. Praesent ante lacus, maximus scelerisque nulla nec, sollicitudin tincidunt ante. Vestibulum ut dui ut nisl imperdiet tincidunt vitae a nulla. </p>
@@ -41,6 +41,17 @@ title: "HCPSS Leaderhip Team"
   <div class="two-thirds--last">
   <h3>Mark Blom, General Counsel</h3>
     <p>Mark Blom oversees <strong>all legal matters and Public Information Act request fulfillment</strong>. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam orci orci, elementum sed tempor vitae, sagittis eu nulla. Suspendisse sed finibus lacus. Sed tristique dapibus dictum. Praesent ante lacus, maximus scelerisque nulla nec, sollicitudin tincidunt ante.</p>
+  </div>
+</div>
+
+<div class="contents">
+  <div class="thirds--first">
+  <img class="pict img--shadow" src="http://via.placeholder.com/250x375g" height="200" alt="">
+  </div>
+
+  <div class="two-thirds--last">
+  <h3>Kevin Gilbert, Director of Diversity, Equity and Inclusion</h3>
+    <p>Kevin Gilbert oversees the <strong>integration of diversity, equity and inclusion principles throughout the educational program and school system culture</strong>. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam orci orci, elementum sed tempor vitae, sagittis eu nulla. Suspendisse sed finibus lacus. Sed tristique dapibus dictum. Praesent ante lacus, maximus scelerisque nulla nec, sollicitudin tincidunt ante.</p>
   </div>
 </div>
 
