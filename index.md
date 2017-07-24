@@ -153,3 +153,14 @@ title: "HCPSS Leadership Team"
     <p>Patrick Saunderson oversees the <strong> XXXXXXXX regional cluster of elementary, middle and high schools</strong>. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam orci orci, elementum sed tempor vitae, sagittis eu nulla. Suspendisse sed finibus lacus. Sed tristique dapibus dictum. Praesent ante lacus, maximus scelerisque nulla nec, sollicitudin tincidunt ante.</p>
   </div>
 </div>
+
+<div class="contents">
+  <div class="thirds--first">
+  <img class="pict img--shadow" src="http://via.placeholder.com/250x375" height="200" alt="">
+  </div>
+
+  <div class="two-thirds--last">
+  <h3>James LeMon, Executive Director of Community, Parent and School Outreach</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam orci orci, elementum sed tempor vitae, sagittis eu nulla. Suspendisse sed finibus lacus. Sed tristique dapibus dictum. Praesent ante lacus, maximus scelerisque nulla nec, sollicitudin tincidunt ante.</p>
+  </div>
+</div>
