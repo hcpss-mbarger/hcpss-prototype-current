@@ -39,8 +39,8 @@ title: "HCPSS Leadership Team"
   </div>
 
   <div class="two-thirds--last">
-  <h3>Mark Blom, General Counsel</h3>
-    <p>Mark Blom oversees <strong>all legal matters and Public Information Act request fulfillment</strong>. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam orci orci, elementum sed tempor vitae, sagittis eu nulla. Suspendisse sed finibus lacus. Sed tristique dapibus dictum. Praesent ante lacus, maximus scelerisque nulla nec, sollicitudin tincidunt ante.</p>
+  <h3>Kevin Gilbert, Director of Diversity, Equity and Inclusion</h3>
+    <p>Kevin Gilbert oversees the <strong>integration of diversity, equity and inclusion principles throughout the educational program and school system culture</strong>. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam orci orci, elementum sed tempor vitae, sagittis eu nulla. Suspendisse sed finibus lacus. Sed tristique dapibus dictum. Praesent ante lacus, maximus scelerisque nulla nec, sollicitudin tincidunt ante.</p>
   </div>
 </div>
 
@@ -50,8 +50,8 @@ title: "HCPSS Leadership Team"
   </div>
 
   <div class="two-thirds--last">
-  <h3>Kevin Gilbert, Director of Diversity, Equity and Inclusion</h3>
-    <p>Kevin Gilbert oversees the <strong>integration of diversity, equity and inclusion principles throughout the educational program and school system culture</strong>. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam orci orci, elementum sed tempor vitae, sagittis eu nulla. Suspendisse sed finibus lacus. Sed tristique dapibus dictum. Praesent ante lacus, maximus scelerisque nulla nec, sollicitudin tincidunt ante.</p>
+  <h3>Mark Blom, General Counsel</h3>
+    <p>Mark Blom oversees <strong>all legal matters and Public Information Act request fulfillment</strong>. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam orci orci, elementum sed tempor vitae, sagittis eu nulla. Suspendisse sed finibus lacus. Sed tristique dapibus dictum. Praesent ante lacus, maximus scelerisque nulla nec, sollicitudin tincidunt ante.</p>
   </div>
 </div>
 
@@ -94,8 +94,8 @@ title: "HCPSS Leadership Team"
   </div>
 
   <div class="two-thirds--last">
-  <h3>William Barnes, Chief Academic Officer</h3>
-    <p>William Barnes oversees <strong>shared accountability, curriculum and instruction, special education, and student services</strong>. Barnes’ current role is Director of Secondary and Pre-K–12 Curricular Programs. He previously served as Coordinator of Secondary Mathematics for HCPSS, and as a team leader and teacher in Baltimore County schools.</p>
+  <h3>Anissa Brown Dennis, Chief Operations Officer</h3>
+    <p>Anissa Brown Dennis oversees <strong>capital planning, infrastructure development, facilities management and safety</strong>. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam orci orci, elementum sed tempor vitae, sagittis eu nulla. Suspendisse sed finibus lacus. Sed tristique dapibus dictum. Praesent ante lacus, maximus scelerisque nulla nec, sollicitudin tincidunt ante.</p>
   </div>
 </div>
 
@@ -116,19 +116,8 @@ title: "HCPSS Leadership Team"
   </div>
 
   <div class="two-thirds--last">
-  <h3>Anissa Brown Dennis, Chief Operations Officer</h3>
-    <p>Anissa Brown Dennis oversees <strong>capital planning, infrastructure development, facilities management and safety</strong>. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam orci orci, elementum sed tempor vitae, sagittis eu nulla. Suspendisse sed finibus lacus. Sed tristique dapibus dictum. Praesent ante lacus, maximus scelerisque nulla nec, sollicitudin tincidunt ante.</p>
-  </div>
-</div>
-
-<div class="contents">
-  <div class="thirds--first">
-  <img class="pict img--shadow" src="http://via.placeholder.com/250x375" height="200" alt="">
-  </div>
-
-  <div class="two-thirds--last">
-  <h3>Theo Cramer, Community Superintendents, Birth–Grade&nbsp;12</h3>
-    <p>Theo Cramer oversees the <strong> XXXXXXXX regional cluster of elementary, middle and high schools</strong>. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam orci orci, elementum sed tempor vitae, sagittis eu nulla. Suspendisse sed finibus lacus. Sed tristique dapibus dictum. Praesent ante lacus, maximus scelerisque nulla nec, sollicitudin tincidunt ante.</p>
+  <h3>William Barnes, Chief Academic Officer</h3>
+    <p>William Barnes oversees <strong>shared accountability, curriculum and instruction, special education, and student services</strong>. Barnes’ current role is Director of Secondary and Pre-K–12 Curricular Programs. He previously served as Coordinator of Secondary Mathematics for HCPSS, and as a team leader and teacher in Baltimore County schools.</p>
   </div>
 </div>
 
@@ -140,6 +129,17 @@ title: "HCPSS Leadership Team"
   <div class="two-thirds--last">
   <h3>Marcy Leonard, Community Superintendents, Birth–Grade&nbsp;12</h3>
     <p>Marcy Leonard oversees the <strong> XXXXXXXX regional cluster of elementary, middle and high schools</strong>. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam orci orci, elementum sed tempor vitae, sagittis eu nulla. Suspendisse sed finibus lacus. Sed tristique dapibus dictum. Praesent ante lacus, maximus scelerisque nulla nec, sollicitudin tincidunt ante.</p>
+  </div>
+</div>
+
+<div class="contents">
+  <div class="thirds--first">
+  <img class="pict img--shadow" src="http://via.placeholder.com/250x375" height="200" alt="">
+  </div>
+
+  <div class="two-thirds--last">
+  <h3>Theo Cramer, Community Superintendents, Birth–Grade&nbsp;12</h3>
+    <p>Theo Cramer oversees the <strong> XXXXXXXX regional cluster of elementary, middle and high schools</strong>. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam orci orci, elementum sed tempor vitae, sagittis eu nulla. Suspendisse sed finibus lacus. Sed tristique dapibus dictum. Praesent ante lacus, maximus scelerisque nulla nec, sollicitudin tincidunt ante.</p>
   </div>
 </div>
 
