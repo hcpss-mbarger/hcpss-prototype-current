@@ -6,7 +6,8 @@ layout: default
 title: "HCPSS Leadership Team"
 ---
 
-<p class="post__paragraph--callout">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam orci orci, elementum sed tempor vitae, sagittis eu nulla. Suspendisse sed finibus lacus. Sed tristique dapibus dictum. Praesent ante lacus, maximus scelerisque nulla nec, sollicitudin tincidunt ante. Vestibulum ut dui ut nisl imperdiet tincidunt vitae a nulla. </p>
+<p class="post__paragraph--callout">HCPSS Interim Superintendent Michael Martirano put into place a reorganized Central Office, structured to drive his vision for a robust instructional program that ensures equity and enables all students to reach their greatest potential.<p>
+<p>The new organization provides a flatter leadership model that fosters cross- and vertical collaboration and opens lines of communication at all levels throughout the school system. With a focus on instruction as a birth-through-graduation continuum, the new structure better positions the school system to address and overcome factors that contribute to the achievement gap.</p>
 
 <div class="hm-notify smtb-mg">
   <div class="hm-notify__img">
