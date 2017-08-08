@@ -73,7 +73,7 @@ title: "HCPSS Leadership Team"
   </div>
 
   <div class="two-thirds--last">
-  <h3>Helen Nixon, Chief Human Resources and Leadership Development Officers</h3>
+  <h3>Helen Nixon, Chief Human Resources and Leadership Development Officer</h3>
     <p>Helen Nixon oversees <strong>recruitment, hiring, compensation, and staff and leadership development</strong>. Nixon joined HCPSS in July 2015 as the Chief Human Resources and Development Officer. She has worked in education for more than 20 years, filling roles in the classroom, staff development, middle school administration and human resources.</p>
   </div>
 </div>
