@@ -6,8 +6,8 @@ layout: default
 title: "HCPSS Leadership Team"
 ---
 
-<p class="post__paragraph--callout">HCPSS Interim Superintendent Michael Martirano put into place a reorganized Central Office, structured to drive his vision for a robust instructional program that ensures equity and enables all students to reach their greatest potential.<p>
-<p>The new organization provides a flatter leadership model that fosters cross- and vertical collaboration and opens lines of communication at all levels throughout the school system. With a focus on instruction as a birth-through-graduation continuum, the new structure better positions the school system to address and overcome factors that contribute to the achievement gap.</p>
+<p class="post__paragraph--callout">HCPSS Interim Superintendent Michael Martirano has reorganized Central Office in order to promote equity, improve efficiencies, and ensure academic excellence for all students.<p>
+<p>The new organization provides a flatter leadership model that fosters cross- and vertical collaboration and opens lines of communication at all levels throughout the school system. With a focus on instruction as a birth-through-graduation continuum, the new structure better positions the school system to support schools and communities, improve responsiveness to parents/guardians, and enhance transparency.</p>
 
 <div class="hm-notify smtb-mg">
   <div class="hm-notify__img">
@@ -25,7 +25,7 @@ title: "HCPSS Leadership Team"
 
 <div class="contents">
   <div class="thirds--first">
-  <!-- <img class="pict img--shadow" src="http://via.placeholder.com/250x375" height="200" alt=""> -->
+  <img class="pict img--shadow" src="http://www.hcpss.org/wp-content/uploads/2017/08/leadership-karalee-turner-little.jpg" height="200" alt="">
   </div>
 
   <div class="two-thirds--last">
@@ -47,7 +47,7 @@ title: "HCPSS Leadership Team"
 
 <div class="contents">
   <div class="thirds--first">
-  <!-- <img class="pict img--shadow" src="http://via.placeholder.com/250x375g" height="200" alt=""> -->
+  <img class="pict img--shadow" src="http://www.hcpss.org/wp-content/uploads/2017/08/leadership-mark-blom.jpg" height="200" alt="">
   </div>
 
   <div class="two-thirds--last">
