@@ -30,7 +30,7 @@ title: "HCPSS Leadership Team"
 
   <div class="two-thirds--last">
   <h3>Karalee Turner-Little, Assistant Superintendent for Administrative Affairs</h3>
-    <p>Karalee Turner-Little oversees <strong>systemic processes, legislative services and policy management</strong>. Turner-Little has been an educator for 25 years, serving in leadership roles in HCPSS, Montgomery County Public Schools, Md., Winston-Salem/Forsyth County Public Schools, N.C., and Lexington City Public Schools, N.C. Recent leadership roles include Coordinator of Systemic Initiatives and Executive Director to the Superintendent.</p>
+    <p>Karalee Turner-Little oversees <strong>the Office of the Superintendent and serves as a liaison to the Board of Education</strong>. Additionally, she leads systemic processes, legislative services and policy management. Turner-Little has been an educator for 25 years, serving in leadership roles in HCPSS, Montgomery County Public Schools, Md., Winston-Salem/Forsyth County Public Schools, N.C., and Lexington City Public Schools, N.C. Recent leadership roles include Coordinator of Systemic Initiatives and Executive Director to the Superintendent.</p>
   </div>
 </div>
 
