@@ -36,7 +36,7 @@ title: "HCPSS Leadership Team"
 
 <div class="contents">
   <div class="thirds--first">
-  <img class="pict img--shadow" src="http://www.hcpss.org/wp-content/uploads/2017/08/leadership-kevine-gilbert.jpg" height="200" alt="">
+  <img class="pict img--shadow" src="http://www.hcpss.org/wp-content/uploads/2017/08/leadership-kevin-gilbert.jpg" height="200" alt="">
   </div>
 
   <div class="two-thirds--last">
@@ -113,7 +113,7 @@ title: "HCPSS Leadership Team"
 
 <div class="contents">
   <div class="thirds--first">
-  <img class="pict img--shadow" src="http://www.hcpss.org/wp-content/uploads/2017/08/leadership-kevine-gilbert.jpg" height="200" alt="">
+  <img class="pict img--shadow" src="http://www.hcpss.org/wp-content/uploads/2017/08/leadership-william-barnes.jpg" height="200" alt="">
   </div>
 
   <div class="two-thirds--last">
