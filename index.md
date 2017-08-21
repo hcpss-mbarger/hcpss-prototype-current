@@ -106,7 +106,7 @@ title: "HCPSS Leadership Team"
   </div>
 
   <div class="two-thirds--last">
-  <h3>Jahantab Siddiqui, Chief Communication, Community/Workforce Engagement Officer</h3>
+  <h3>Jahantab Siddiqui, Chief Communication, Community and Workforce Engagement Officer</h3>
     <p>Jahantab Siddiqui oversees <strong>communications, workforce engagement and partner engagement</strong>. Siddiqui most recently was the Deputy Chief of Staff for the Howard County Executive; served previously in communications, budget and legislative roles for Howard and Montgomery counties and other organizations; and was a Special Assistant to U.S. Senator Barbara A. Mikulski.</p>
   </div>
 </div>
