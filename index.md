@@ -7,7 +7,7 @@ title: "HCPSS Leadership Team"
 ---
 
 <p class="post__paragraph--callout">HCPSS Interim Superintendent Michael Martirano has reorganized Central Office in order to promote equity, improve efficiencies, and ensure academic excellence for all students.<p>
-<p>The new organization provides a flatter leadership model that fosters cross- and vertical collaboration and opens lines of communication at all levels throughout the school system. With a focus on instruction as a birth-through-graduation continuum, the new structure better positions the school system to support schools and communities, improve responsiveness to parents/guardians, and enhance transparency.</p>
+<p>The new organization provides a flatter leadership model that fosters cross and vertical collaboration and opens lines of communication at all levels throughout the school system. With a focus on instruction as a birth-through-graduation continuum, the new structure better positions the school system to support schools and communities, improve responsiveness to parents/guardians, and enhance transparency.</p>
 
 <div class="hm-notify smtb-mg">
   <div class="hm-notify__img">
@@ -63,7 +63,7 @@ title: "HCPSS Leadership Team"
 
   <div class="two-thirds--last">
   <h3>Rafiu Ighile, Chief Business and Technology Officer</h3>
-    <p>Rafiu Ighile oversees <strong>all financial and technology operations and ensuring responsible stewardship of school system resources</strong>. Ighile previously worked for the Howard County Government as Deputy Director of Finance and as Bureau Chief/Controller. He also held controller roles at the American Trucking Association, National Children’s Center Inc. and the Lt. Joseph P. Kennedy Institute.</p>
+    <p>Rafiu Ighile oversees <strong>all financial and technology operations and ensuring responsible stewardship of school system resources</strong>. Ighile previously worked for the Howard County Government as Deputy Director of Finance and as Bureau Chief/Controller. He also held controller roles at the American Trucking Association, National Children’s Center Inc., and the Lt. Joseph P. Kennedy Institute.</p>
   </div>
 </div>
 
@@ -74,7 +74,7 @@ title: "HCPSS Leadership Team"
 
   <div class="two-thirds--last">
   <h3>Helen Nixon, Chief Human Resources and Leadership Development Officer</h3>
-    <p>Helen Nixon oversees <strong>recruitment, hiring, compensation, and staff and leadership development</strong>. Nixon joined HCPSS in July 2015 as the Chief Human Resources and Development Officer. She has worked in education for more than 20 years, filling roles in the classroom, staff development, middle school administration and human resources.</p>
+    <p>Helen Nixon oversees <strong>recruitment, hiring, compensation, and staff and leadership development</strong>. Nixon joined HCPSS in July 2015 as the Chief Human Resources and Development Officer. She has worked in education for more than 20 years, filling roles in the classroom and development of staff and leadership.</p>
   </div>
 </div>
 
@@ -128,7 +128,7 @@ title: "HCPSS Leadership Team"
   </div>
 
   <div class="two-thirds--last">
-  <h3>Marcy Leonard, Community Superintendents, Birth–Grade&nbsp;12</h3>
+  <h3>Marcy Leonard, Community Superintendent, Birth–Grade&nbsp;12</h3>
     <p>Marcy Leonard oversees the <strong><a href="http://www.hcpss.org/contact-us/community-superintendents/#area-1">Area 1 regional cluster</a> of elementary, middle and high schools</strong>. Leonard has spent more than 20 years in HCPSS, most recently as Principal of Hammond High School. Previously she was Principal at Atholton High School, and Assistant Principal, Instructional Team Leader and Social Studies Teacher at Wilde Lake High School.</p>
   </div>
 </div>
@@ -139,8 +139,8 @@ title: "HCPSS Leadership Team"
   </div>
 
   <div class="two-thirds--last">
-  <h3>Theo Cramer, Community Superintendents, Birth–Grade&nbsp;12</h3>
-    <p>Theo Cramer oversees the <strong><a href="http://www.hcpss.org/contact-us/community-superintendents/#area-2">Area 2 regional cluster</a> of elementary, middle and high schools</strong>. Cramer joins HCPSS from Prince George’s County Public Schools, where he was Executive Director of the Division of Human Resources. He has more than 25 years of education experience at Prince George’s County and St. Mary’s County Public Schools</p>
+  <h3>Theo Cramer, Community Superintendent, Birth–Grade&nbsp;12</h3>
+    <p>Theo Cramer oversees the <strong><a href="http://www.hcpss.org/contact-us/community-superintendents/#area-2">Area 2 regional cluster</a> of elementary, middle and high schools</strong>. Cramer joins HCPSS from Prince George’s County Public Schools, where he was Executive Director of the Division of Human Resources. He has more than 25 years of education experience at Prince George’s County and St. Mary’s County Public Schools.</p>
   </div>
 </div>
 
@@ -150,7 +150,7 @@ title: "HCPSS Leadership Team"
   </div>
 
   <div class="two-thirds--last">
-  <h3>Patrick Saunderson, Community Superintendents, Birth–Grade&nbsp;12</h3>
+  <h3>Patrick Saunderson, Community Superintendent, Birth–Grade&nbsp;12</h3>
     <p>Patrick Saunderson oversees the <strong><a href="http://www.hcpss.org/contact-us/community-superintendents/#area-3">Area 3 regional cluster</a> of elementary, middle and high schools</strong>. Most recently, Saunderson was Principal of Reservoir High School. During his 25 years at HCPSS, he served as Principal at Marriotts Ridge High School and Lime Kiln Middle School, Assistant Principal at Wilde Lake High School, and Teacher at Atholton High School.</p>
   </div>
 </div>
